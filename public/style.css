@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aliceblue;
+}
+
+.weather-main{
+    text-align: center;
+    background-color: aliceblue;
+    width: 50%;
+    margin: auto;
+    margin-top: 200px;
+}
